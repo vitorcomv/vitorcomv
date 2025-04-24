@@ -4,15 +4,13 @@
   </a>
 </div>
 
-<img align="center" alt="" src="./src/header-gif.gif">
-
 #
 
 <p align="center">Avançando para moldar o futuro digital, sou um estudante de tecnologia apaixonado por inovação, que enxerga nos desafios a oportunidade de evoluir e transformar ideias em soluções impactantes. Estou constantemente explorando novas tecnologias, linguagens e abordagens para resolver problemas de forma criativa e eficiente.
   
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="./src/cat.gif">
 
 <h3 align="left">Connect with me!</h3>
 
@@ -33,7 +31,7 @@
 
 #
 
-<div style="text-align: center;" align="left">
+<div style="text-align: center;" align="center">
   <h3>GitHub Stats</h3>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vitorcomv&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
