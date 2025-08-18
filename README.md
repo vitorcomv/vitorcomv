@@ -6,7 +6,7 @@
 
 #
 
-<p align="center">Avançando para moldar o futuro digital, sou um estudante de tecnologia apaixonado por inovação, que enxerga nos desafios a oportunidade de evoluir e transformar ideias em soluções impactantes. Estou constantemente explorando novas tecnologias, linguagens e abordagens para resolver problemas de forma criativa e eficiente.
+<p align="center">Avançando para moldar o futuro digital, sou um jovem formado em Análise e Desenvolvimento de Sitemas, apaixonado por inovação, que enxerga nos desafios a oportunidade de evoluir e transformar ideias em soluções impactantes. Estou constantemente explorando novas tecnologias, linguagens e abordagens para resolver problemas de forma criativa e eficiente.
   
 #
 
